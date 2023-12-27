@@ -10,7 +10,7 @@ body{
 }
 .ctn {
     display: flex;
-    margin-top: 50px;
+    margin-top: 20px;
     display: block;
     text-align: center;
 }
